@@ -1,9 +1,3 @@
-# mantisx-notebook
-
-![](docs/mantisx-notebook.png)
-
-## License
-
 MIT License
 
 Copyright (c) 2025 Michael Wiesendanger
