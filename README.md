@@ -1,6 +1,6 @@
 # mantisx-notebook
 
-![](docs/mantisx-notebook.png)
+![](docs/mantisx_notebook.png)
 
 ## Overview
 
