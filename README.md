@@ -20,6 +20,8 @@ The notebooks in this repository are designed to:
 
 The repository includes sample data from holster draw analysis sessions, stored as JSON files in the `data/holster_draw_analysis/` directory. Each file represents a single training session with detailed performance metrics.
 
+The data used in this repository was extracted using the [mantisx-service](https://github.com/RagedUnicorn/mantisx-service) tool, which provides an interface for exporting MantisX training data.
+
 ## Getting Started
 
 1. Install the required dependencies:
